@@ -130,11 +130,10 @@ dt {
 }
 
 ul li {
-  list-style: none;
+  list-style: lower-greek;
 }
 
 ul li:before {
-  content: ">>";
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   font-size: 13px;
   color: #FF560B;
