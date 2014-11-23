@@ -1,9 +1,7 @@
 ---
 layout: post
-title: TODO
+title: Maven And Arbitrary Jar Files
 ---
-
-## Maven And Arbitrary Jar Files
 
 Since  I’m  coding  sometimes  with  Java   I  also  use  [Maven][1]  to  manage
 dependencies. It  is a  very easy  and straight forward  approach to  use Maven.

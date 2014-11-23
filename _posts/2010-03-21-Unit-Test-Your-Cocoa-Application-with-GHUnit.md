@@ -1,9 +1,7 @@
 ---
 layout: post
-title: TODO
+title: Unit Test Your Cocoa Application with GHUnit
 ---
-
-## Unit Test Your Cocoa Application with GHUnit
 
 In the last years  I have good experiences with [Unit  testing][1]. It gives you
 more  safety  that  your  software  meets your  behavioral  requirements.  So  I

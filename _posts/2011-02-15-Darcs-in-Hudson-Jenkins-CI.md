@@ -1,9 +1,7 @@
 ---
 layout: post
-title: TODO
+title: Darcs in Hudson/Jenkins CI
 ---
-
-## Darcs in Hudson/Jenkins CI
 
 At [work][1] we’re using heavily  the [DVCS][2] [Darcs][3]. Beyond dispute Darcs
 is in my opinion  a good and suitable workhorse. Ok, it’s not  that hip like Git

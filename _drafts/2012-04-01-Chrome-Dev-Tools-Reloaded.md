@@ -1,9 +1,7 @@
 ---
 layout: post
-title: TODO
+title: Chrome Dev Tools Reloaded
 ---
-
-## Chrome Dev Tools Reloaded
 
 Are  you using  [Firebug][1]  or [Venkman][2]?  Did you  ever  tried the  Chrome
 developer tools?  If your answers  were yes and no  you should watch  this video

@@ -1,9 +1,7 @@
 ---
 layout: post
-title: TODO
+title: Only SSL Access to My Blog
 ---
-
-## Only SSL Access to My Blog
 
 Some time ago I  configured my blog to serve both HTTP and  HTTPS. From now on I
 will redirect all  non-SSL requests permanently to HTTPS. The  reason is that no

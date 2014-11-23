@@ -1,9 +1,7 @@
 ---
 layout: post
-title: TODO
+title: Hudson vs. Jenkins
 ---
-
-## Hudson vs. Jenkins
 
 Do you remember [Hudson  CI][1]? If you did some [CI][2] two  years ago then you
 know Hudson and you also know that  after the acquisition of Sun by Oracle there

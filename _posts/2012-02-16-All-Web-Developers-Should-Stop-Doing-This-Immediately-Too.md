@@ -1,9 +1,7 @@
 ---
 layout: post
-title: TODO
+title: All Web Developers Should Stop Doing This Immediately, Too
 ---
-
-## All Web Developers Should Stop Doing This Immediately, Too
 
 [Christopher Mims complains  about the fact that a website  is treating him with
 his  iPad  as  a  second  class citicen][1].  He’s  right  that  web  developers

@@ -1,9 +1,7 @@
 ---
 layout: post
-title: TODO
+title: Launched Website for a Video Cutter
 ---
-
-## Launched Website for a Video Cutter
 
 Some days  ago I launched  a new [website][1]. It’s  the portfolio of  my former
 neighbor.  He’s  a talented  digital  video  cutter  allways searching  for  new

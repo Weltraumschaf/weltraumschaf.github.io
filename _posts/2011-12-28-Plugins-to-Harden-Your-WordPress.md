@@ -1,9 +1,7 @@
 ---
 layout: post
-title: TODO
+title: Plugins To Harden Your WordPress
 ---
-
-## Plugins To Harden Your WordPress
 
 Just stumbled  over a blog post  with a collection of  [16 WordPress plugins][1]
 to secure your blog  installation. Some of them sounds not  that strong but some

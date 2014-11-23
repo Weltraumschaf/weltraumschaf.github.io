@@ -1,9 +1,7 @@
 ---
 layout: post
-title: TODO
+title: Good Thinking – Good Products
 ---
-
-## Good Thinking – Good Products
 
 > The Toyota  Way has  two main  pillars: continuous  improvement and  respect for
 > people.  Respect  is  necessary  to  work  with  people.  By  “people”  we  mean

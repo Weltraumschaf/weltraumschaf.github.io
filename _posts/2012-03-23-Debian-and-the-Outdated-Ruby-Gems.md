@@ -1,9 +1,7 @@
 ---
 layout: post
-title: TODO
+title: Debian and the Outdated Ruby Gems
 ---
-
-## Debian and the Outdated Ruby Gems
 
 [Debian][1] is in  my personal opinion the best Linux  server distribution ever!
 I've never used something  else. But one big drawback is that a  lot of stuff is

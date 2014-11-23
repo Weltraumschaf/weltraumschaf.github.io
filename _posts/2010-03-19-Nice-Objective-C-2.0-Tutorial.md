@@ -1,8 +1,7 @@
 ---
 layout: post
-title: TODO
+title: Nice Objective-C 2.0 Tutorial
 ---
-## Nice Objective-C 2.0 Tutorial
 
 Scott Stevenson posted a nice tutorial  about new Features in Objective-C 2.0 in
 Mac  OS: [A  Quick Objective-C  2.0 Tutorial][1]  and [A  Quick Objective-C  2.0
