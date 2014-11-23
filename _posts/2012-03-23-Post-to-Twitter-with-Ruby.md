@@ -25,6 +25,8 @@ Shorten URIs with [bitly gem][3] is as simple as posting to twitter, too:
     bitly = Bitly.new('YOUR_USERNAME', 'YOUR_API_KEY')
     short_url = bitly.shorten(longUrl).short_url
 
+That's all.
+
 [1]: https://twitter.com/Weltraumschaf/
 [2]: http://twitter.rubyforge.org/
 [3]: https://github.com/philnash/bitly
