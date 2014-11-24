@@ -5,7 +5,9 @@ layout: default
 <article>
     <h2>{{ page.title }}</h2>
 
-    <strong class="meta">Posted {{ page.date | date: "%B %e, %Y" }}</strong>
+    <p>
+        <strong class="meta">Posted {{ page.date | date: "%B %e, %Y" }}</strong>
+    </p>
 
     {{ content }}
 </article>
