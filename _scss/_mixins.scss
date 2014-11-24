@@ -1,3 +1,6 @@
+/****************/
+/* _mixins.scss */
+/****************/
 
 @mixin blue-gradiant($top, $bottom){
   background: -moz-linear-gradient($top, $bottom); /* Firefox */
