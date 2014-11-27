@@ -73,10 +73,6 @@
   text-decoration: none;
 }
 
-#access .current_page_item > a {
-  font-weight: bold;
-}
-
 #access ul {
   font-size: 13px;
   list-style: none outside none;
@@ -139,17 +135,8 @@
   margin-bottom: 0.4em;
 }
 
-#rating {
-  display: none;
-  float: right;
-}
-
 #comments {
   display: none;
-}
-
-#pagination {
-  text-align: center;
 }
 
 #secondary {
