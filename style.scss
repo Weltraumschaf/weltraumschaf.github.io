@@ -103,12 +103,13 @@
 
 #primary ul {
   list-style: none;
+  margin-left: 0;
+  padding-left: 2em;
+  text-indent: -1em;
 }
 
 #primary ul li:before {
-  content: "¬";
-  position: relative;
-  left: -20px;
+  content: "¬ ";
 }
 
 #content {
