@@ -23,33 +23,17 @@ _E_STRICT_ errors:
 - when static methods are declared as abstract
 - when non-static methods are called static
 - when a static property is accessed dynamically
-- when assigning new with reference
-
-<pre>$foo =& new Foo();</pre>
-
-- if you use <code>is_a()</code> instead of <code>instanceof</code> (in 5.2, in 5.3 undeprecated&hellip;)
-- if you use var instead of <code>private/protected/public</code> for class properties
+- when assigning new with reference `$foo =& new Foo();`
+- if you use `is_a()` instead of `instanceof` (in 5.2, in 5.3 undeprecated&hellip;)
+- if you use var instead of `private/protected/public` for class properties
 - if method declaration/signature of overridden methods differ
 - if you declare both the PHP4 and PHP5 constructor in a class
-- if you use “Automagic Objects”
-
-<pre>$notInitializedYet->foo = 'bar';</pre>
-
-- if you assign function/method return values as reference
-
-<pre>$foo =& bar();</pre>
-
-- if you pass function/method return values as reference to a function/method
-
-<pre>foo(bar()); //if function foo(&$aReference { &hellip; }</pre>
-
-- if resources are casted implicit to an integer
-
-<pre>$row[$query_id] = mysql_fetch_array($query_id);
-// if get_type($query_id) == 'resource'</pre>
-
-- if <code>mktime()</code> is called without parameter. You should use <code>time()</code> instead
-- if you call <code>mysqli_next_result()/mysqli::next_result()</code> although there are no further results. You should test with <code>mysqli_more_results()/mysqli::more_results()</code> before
+- if you use "Automagic Objects" `$notInitializedYet->foo = 'bar';`
+- if you assign function/method return values as reference `$foo =& bar();`
+- if you pass function/method return values as reference to a function/method `foo(bar()); //if function foo(&$aReference { ... }`
+- if resources are casted implicit to an integer `$row[$query_id] = mysql_fetch_array($query_id); // if get_type($query_id) == 'resource'`
+- if `mktime()` is called without parameter. You should use `time()` instead
+- if you call `mysqli_next_result()/mysqli::next_result()` although there are no further results. You should test with `mysqli_more_results()/mysqli::more_results()` before
 - and last but not least: If you don’t set a default timezone (neither in Code nor in php.ini)
 
 [1]: http://php.net/

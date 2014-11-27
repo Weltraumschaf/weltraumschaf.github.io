@@ -24,10 +24,11 @@ cite, em, i {
 
 code, kbd {
   font: 13px Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+  color: $grey7;
 }
 
 pre {
-  background: $lightBlue2;
+  background: $lightBlue1;
   border: 1px solid $darkBlue16;
   margin: 0 15px 1.2em;
   padding: 3px;
