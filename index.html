@@ -7,7 +7,7 @@ layout: default
     {% for post in site.posts %}
         <li>
             <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title | truncatewords:6 }}</a>
-            <span class="meta">({{ post.date | date: "%B %e, %Y" }})</span>
+            <span class="meta">({{ post.date | date: "%e.%m.%Y" }})</span>
         </li>
     {% endfor %}
 </ul>
