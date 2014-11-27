@@ -4,8 +4,7 @@
 @import "_colors";
 @import "_tags";
 @import "_mixins";
-
-// Syntax highlighting @import is at the bottom of this file
+@import "_highlights";
 
 #page {
   background: none repeat scroll 0 0 $lightBlue1;
@@ -198,8 +197,3 @@ footer a {
 article p {
   margin-bottom: 1.625em;
 }
-
-// Settled on moving the import of syntax highlighting to the bottom of the CSS
-// ... Otherwise it really bloats up the top of the CSS file and makes it difficult
-// to find the start
-//@import "_highlights";
